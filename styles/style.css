@@ -20,6 +20,7 @@ html {
   background-color: #1b1919;
   inline-size: 1200px;
   block-size: 100%;
+  max-height: 534px;
 }
 
 h1,
