@@ -61,7 +61,7 @@ ol {
   grid-template-areas: 'result content__details';
   gap: 30px;
   max-height: 534px;
-  margin: 133px 30px;
+  margin: 274px 30px 133px;
 }
 
 .result {
