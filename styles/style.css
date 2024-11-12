@@ -78,7 +78,7 @@ ol {
 .search-form {
   display: flex;
   gap: 41px;
-  margin-top: 9px;
+  margin-top: 12px;
 }
 
 .search-form__fieldset {
