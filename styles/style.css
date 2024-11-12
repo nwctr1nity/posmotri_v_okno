@@ -62,7 +62,7 @@ ol {
   grid-template-columns: 711px 399px;
   grid-template-areas: 'result content__details';
   gap: 30px;
-  margin: 169px 0 0 0;
+  margin: 274px 0 0 0;
 }
 
 .result {
